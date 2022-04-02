@@ -1,4 +1,3 @@
-configInfo: Spring-cloud-config---------version:1.0
-configInfo: Spring-cloud-config---------version:2.0
-configInfo: Spring-cloud-config---------version:3.0
-configInfo: Spring-cloud-config---------version:4.0
+config
+ info  Spring-cloud-config---------version:1.0
+
